@@ -8,4 +8,8 @@ Most of the answers to these questions will eventually point to [Astro documenta
 
 # Questions
 
+### How are HMR updates to Astro Components handled in development mode?
+
+...
+
 ---
